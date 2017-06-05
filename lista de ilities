@@ -7,11 +7,11 @@ Cada atributo de qualidade pode ter, no máximo, 3 nomes.
 
 accessibility - nome1, nome2, nome3
 accountability
-accuracy - daniel kiluange, felipe baruch
+accuracy
 adaptability
 administrability
-affordability
-agility  - daniel kiluange, felipe baruch
+affordability kenia
+agility 
 auditability
 autonomy 
 availability
@@ -20,7 +20,7 @@ composability
 configurability
 credibility
 customizability
-debugability
+debugability kenia
 degradability
 determinability
 demonstrability
@@ -28,27 +28,27 @@ dependability
 deployability
 discoverability
 distributability
-durability - daniel kiluange, felipe baruch
+durability
 effectiveness
-efficiency - daniel kiluange, felipe baruch
+efficiency
 evolvability
 extensibility
 failure transparency
 fault-tolerance
 fidelity
-flexibility - daniel kiluange, felipe baruch
+flexibility
 inspectability
 installability
-integrity - daniel kiluange, felipe baruch
+integrity kenia
 interchangeability
 interoperability [Erl]
-learnability
+learnability kenia
 maintainability
 manageability
 mobility
 modifiability
-modularity
-operability - daniel kiluange, felipe baruch
+modularity kenia
+operability
 orthogonality
 portability
 precision
@@ -61,27 +61,27 @@ relevance
 repairability
 repeatability
 reproducibility
-resilience - daniel kiluange, felipe baruch
-responsiveness
+resilience
+responsiveness kenia
 reusability
-safety
+safety  kenia
 scalability
 seamlessness
 self-sustainability
 serviceability (a.k.a. supportability)
-securability - daniel kiluange, felipe baruch
+securability
 simplicity
 stability
 standards compliance
 survivability
 sustainability
 tailorability
-testability
+testability kenia
 timeliness
 traceability
-transparency
+transparency                        
 ubiquity
 understandability
 upgradability
-usability
+usability kenia
 verifiability
